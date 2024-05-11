@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nstaff001, Nicholas Stafford
-- 👀 I’m interested in real estate economics
+- 👀 I’m interested in spatial economics
 - 🌱 I’m currently learning R and Python for data analysis
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by email @ ns57686n@pace.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can play the violin
