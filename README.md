@@ -4,4 +4,4 @@
 - 📫 How to reach me by email @ nicholas.stafford@usa.com
 - 😄 Pronouns: he/him
 - ⚡ I am seeking a position in data analysis or data science
-Connect on LinkedIn! https://www.linkedin.com/in/nicholas-stafford-707a64296/
+- Connect on LinkedIn! https://www.linkedin.com/in/nicholas-stafford-707a64296/
