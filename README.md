@@ -5,6 +5,6 @@
 - 😄 Pronouns: he/him
 - ⚡ I am seeking a position in data analysis or data science
 
-- Check out my project on gas market competition https://github.com/nstaff001/gas-stations
+- Check out my project on gas market competition: https://github.com/nstaff001/gas-stations
 
 - Connect on LinkedIn! https://www.linkedin.com/in/nicholas-stafford-707a64296/
