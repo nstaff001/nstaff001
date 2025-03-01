@@ -7,4 +7,4 @@
 
 - Check out my project on gas market competition: https://github.com/nstaff001/gas-stations
 
-- Connect on LinkedIn! https://www.linkedin.com/in/nicholas-stafford-707a64296/
+- Connect on LinkedIn! https://www.linkedin.com/in/nicholas-stafford-data-scientist
